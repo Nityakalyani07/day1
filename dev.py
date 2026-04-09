@@ -1,4 +1,6 @@
 print("hello cloud")
+print("hi")
+print("hello cloud")
 print("happy")
 a=59
 print("happy")
